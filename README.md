@@ -47,7 +47,7 @@ The simple multi-thread parser for baido image.
     # example:
     python keywords2urls.py --keywords ./test_keywords.csv --out_dir img_list --limit_per_word 10000
     ```
-# Step 4 :
+* Step 4 :
     Parse the whole urls and save to image files.
     
     ```shell
